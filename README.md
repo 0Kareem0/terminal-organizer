@@ -1,6 +1,6 @@
 # Terminal Organizer 🗂️
 
-A Python script that organizes files in any directory by **file type** — like a mini Shazam for your Downloads folder 😎  
+A Python script that organizes files in any directory by **file type** 😎  
 Includes **dry-run preview**, **undo**, and supports folders like `~/Downloads`.
 
 ---
