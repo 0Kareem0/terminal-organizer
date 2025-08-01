@@ -1,0 +1,149 @@
+2025-08-01 03:54:25,200 - INFO - DRY RUN: Starting organization of .
+2025-08-01 03:54:25,202 - INFO - Found 5 files to organize
+2025-08-01 03:54:25,205 - INFO - WOULD MOVE: Dr Stone Episode 1.mp4 -> Videos/Dr Stone Episode 1.mp4
+2025-08-01 03:54:25,205 - INFO - WOULD MOVE: [Hyprland] Made this the first time I tried Linux [t22qvaofd8ff1].mp4 -> Videos/[Hyprland] Made this the first time I tried Linux [t22qvaofd8ff1].mp4
+2025-08-01 03:54:25,205 - INFO - WOULD MOVE: organizer.log -> Others/organizer.log
+2025-08-01 03:54:25,205 - INFO - WOULD MOVE: m2-res_480p [m2-res_480p.mp4？m=DASHPlaylist].mp4 -> Videos/m2-res_480p [m2-res_480p.mp4？m=DASHPlaylist].mp4
+2025-08-01 03:54:25,205 - INFO - WOULD MOVE: [Crunchyroll] Dr. Stone - Stone Wars - 01.ass -> Audio/[Crunchyroll] Dr. Stone - Stone Wars - 01.ass
+2025-08-01 03:54:25,205 - INFO - Organization simulation complete!
+2025-08-01 03:55:19,872 - INFO - DRY RUN: Starting organization of /home/elite/Downloads
+2025-08-01 03:55:19,872 - INFO - Found 67 files to organize
+2025-08-01 03:55:19,874 - INFO - WOULD MOVE: webcam-toy-photo3.jpg -> Images/webcam-toy-photo3.jpg
+2025-08-01 03:55:19,874 - INFO - WOULD MOVE: zen.linux-aarch64.tar.xz -> Applications/zen.linux-aarch64.tar.xz
+2025-08-01 03:55:19,874 - INFO - WOULD MOVE: ChatGPT Image Jul 29, 2025, 12_33_40 PM.png -> Images/ChatGPT Image Jul 29, 2025, 12_33_40 PM.png
+2025-08-01 03:55:19,874 - INFO - WOULD MOVE: ChatGPT Image Apr 22, 2025, 12_58_06 PM.png -> Images/ChatGPT Image Apr 22, 2025, 12_58_06 PM.png
+2025-08-01 03:55:19,874 - INFO - WOULD MOVE: sign-up.html -> Code/sign-up.html
+2025-08-01 03:55:19,874 - INFO - WOULD MOVE: zen-themes-export.json -> Code/zen-themes-export.json
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: ChatGPT Image Apr 27, 2025, 09_12_50 AM.png -> Images/ChatGPT Image Apr 27, 2025, 09_12_50 AM.png
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: Lavanda-Sea-Dark.tar.xz -> Applications/Lavanda-Sea-Dark.tar.xz
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: extracted_profile.icc -> Applications/extracted_profile.icc
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: 9685.gif -> Images/9685.gif
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: app.zen_browser.zen.flatpakref -> Others/app.zen_browser.zen.flatpakref
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: rage-david-martinez.gif -> Images/rage-david-martinez.gif
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: ChatGPT Image Apr 22, 2025, 12_57_33 PM.png -> Images/ChatGPT Image Apr 22, 2025, 12_57_33 PM.png
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: Image-ExifTool-13.30.tar.gz -> Archives/Image-ExifTool-13.30.tar.gz
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: ChatGPT Image Jun 4, 2025, 11_49_06 AM.png -> Images/ChatGPT Image Jun 4, 2025, 11_49_06 AM.png
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: mongodb-compass_1.46.0_amd64.deb -> Applications/mongodb-compass_1.46.0_amd64.deb
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: Screenshot 2025-06-12 at 19-29-11 0Kareem0_Learning-React.png -> Images/Screenshot 2025-06-12 at 19-29-11 0Kareem0_Learning-React.png
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: WhatsApp Image 2025-05-13 at 12.14.52 AM (1).jpeg -> Images/WhatsApp Image 2025-05-13 at 12.14.52 AM (1).jpeg
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: _WeCima.Show__Dark_S02_720p.rar -> Archives/_WeCima.Show__Dark_S02_720p.rar
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: 503023123_18065539610510743_1051036098358379209_n.jpg -> Images/503023123_18065539610510743_1051036098358379209_n.jpg
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: cyberpunk-2077-v.gif -> Images/cyberpunk-2077-v.gif
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: ChatGPT Image Apr 21, 2025, 01_56_17 AM.png -> Images/ChatGPT Image Apr 21, 2025, 01_56_17 AM.png
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: 162558.gif -> Images/162558.gif
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: Teddybear @ PixelJoint_com.gif -> Images/Teddybear @ PixelJoint_com.gif
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: planet-svgrepo-com.svg -> Images/planet-svgrepo-com.svg
+2025-08-01 03:55:19,875 - INFO - WOULD MOVE: Fight_Club.mp4.crdownload -> Others/Fight_Club.mp4.crdownload
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: dr.stone.s01.e01.stone.world.(2019).ara.1cd.(12250013).zip -> Archives/dr.stone.s01.e01.stone.world.(2019).ara.1cd.(12250013).zip
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: webcam-toy-photo1.jpg -> Images/webcam-toy-photo1.jpg
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: ChatGPT Image Apr 22, 2025, 04_39_57 PM.png -> Images/ChatGPT Image Apr 22, 2025, 04_39_57 PM.png
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: app.zen_browser.zen (1).flatpakref -> Others/app.zen_browser.zen (1).flatpakref
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: WhatsApp Image 2025-07-19 at 2.10.04 PM.jpeg -> Images/WhatsApp Image 2025-07-19 at 2.10.04 PM.jpeg
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: Lavanda-Dark.tar.xz -> Applications/Lavanda-Dark.tar.xz
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: warp-terminal_0.2025.05.21.08.11.stable.01_amd64.deb -> Applications/warp-terminal_0.2025.05.21.08.11.stable.01_amd64.deb
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: mongodb-mongosh_2.5.0_amd64.deb -> Applications/mongodb-mongosh_2.5.0_amd64.deb
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: WhatsApp Image 2025-05-13 at 12.14.52 AM (2).jpeg -> Images/WhatsApp Image 2025-05-13 at 12.14.52 AM (2).jpeg
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: background-realistic-abstract-technology-particle.zip -> Archives/background-realistic-abstract-technology-particle.zip
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: GpmKOQGXUAEUgti.jpeg -> Images/GpmKOQGXUAEUgti.jpeg
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: chrome.zip -> Archives/chrome.zip
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: ChatGPT Image Jun 4, 2025, 11_59_36 AM.png -> Images/ChatGPT Image Jun 4, 2025, 11_59_36 AM.png
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: _WeCima.Show__Dark_S03_720p.rar -> Archives/_WeCima.Show__Dark_S03_720p.rar
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: laughing-david-martinez.gif -> Images/laughing-david-martinez.gif
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: WIN_20250521_03_31_24_Pro.mp4 -> Videos/WIN_20250521_03_31_24_Pro.mp4
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: message.txt -> Documents/message.txt
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: ChatGPT Image Apr 28, 2025, 05_57_39 PM.png -> Images/ChatGPT Image Apr 28, 2025, 05_57_39 PM.png
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: Orchis.tar.xz -> Applications/Orchis.tar.xz
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: warp-terminal_0.2025.05.21.08.11.stable.01_amd64(1).deb -> Applications/warp-terminal_0.2025.05.21.08.11.stable.01_amd64(1).deb
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: webcam-toy-photo2.jpg -> Images/webcam-toy-photo2.jpg
+2025-08-01 03:55:19,876 - INFO - WOULD MOVE: _WeCima.Show__Dark_S01_720p.rar -> Archives/_WeCima.Show__Dark_S01_720p.rar
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: anime.gif -> Images/anime.gif
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: extracted_icc_profile.icc -> Applications/extracted_icc_profile.icc
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: image.jpg -> Images/image.jpg
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: _.jpeg -> Images/_.jpeg
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: kali-linux-2025.1c-virtualbox-amd64.7z -> Archives/kali-linux-2025.1c-virtualbox-amd64.7z
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: runjs_3.1.2_amd64.deb -> Applications/runjs_3.1.2_amd64.deb
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: vecteezy_planet-logo-icon-design-template-vector_7635631_410.zip -> Archives/vecteezy_planet-logo-icon-design-template-vector_7635631_410.zip
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: steins-gate-okabe-rintaro.gif -> Images/steins-gate-okabe-rintaro.gif
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: kali-linux-2025.1c-installer-amd64.iso -> Applications/kali-linux-2025.1c-installer-amd64.iso
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: ChatGPT Image Jun 4, 2025, 11_58_49 AM.png -> Images/ChatGPT Image Jun 4, 2025, 11_58_49 AM.png
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: gojo-satoru-gojo.gif -> Images/gojo-satoru-gojo.gif
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: map-marker-svgrepo-com.svg -> Images/map-marker-svgrepo-com.svg
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: ChatGPT Image Apr 21, 2025, 01_50_31 AM.png -> Images/ChatGPT Image Apr 21, 2025, 01_50_31 AM.png
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: Screencast from 2025-05-06 18-49-55 (online-video-cutter.com).mp4 -> Videos/Screencast from 2025-05-06 18-49-55 (online-video-cutter.com).mp4
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: dr.stone.s01.e01.stone.world.(2019).ara.1cd.(12098619).zip -> Archives/dr.stone.s01.e01.stone.world.(2019).ara.1cd.(12098619).zip
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: code.png -> Images/code.png
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: WhatsApp Image 2025-05-13 at 12.14.52 AM.jpeg -> Images/WhatsApp Image 2025-05-13 at 12.14.52 AM.jpeg
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: Screenshot from 2025-06-14 23-35-01.png -> Images/Screenshot from 2025-06-14 23-35-01.png
+2025-08-01 03:55:19,877 - INFO - WOULD MOVE: ChatGPT Image Apr 22, 2025, 12_57_18 PM.png -> Images/ChatGPT Image Apr 22, 2025, 12_57_18 PM.png
+2025-08-01 03:55:19,877 - INFO - Organization simulation complete!
+2025-08-01 03:56:40,284 - INFO - Starting organization of /home/elite/Downloads
+2025-08-01 03:56:40,285 - INFO - Found 67 files to organize
+2025-08-01 03:56:40,288 - INFO - MOVED: webcam-toy-photo3.jpg -> Images/webcam-toy-photo3.jpg
+2025-08-01 03:56:40,288 - INFO - MOVED: zen.linux-aarch64.tar.xz -> Applications/zen.linux-aarch64.tar.xz
+2025-08-01 03:56:40,288 - INFO - MOVED: ChatGPT Image Jul 29, 2025, 12_33_40 PM.png -> Images/ChatGPT Image Jul 29, 2025, 12_33_40 PM.png
+2025-08-01 03:56:40,288 - INFO - MOVED: ChatGPT Image Apr 22, 2025, 12_58_06 PM.png -> Images/ChatGPT Image Apr 22, 2025, 12_58_06 PM.png
+2025-08-01 03:56:40,288 - INFO - MOVED: sign-up.html -> Code/sign-up.html
+2025-08-01 03:56:40,288 - INFO - MOVED: zen-themes-export.json -> Code/zen-themes-export.json
+2025-08-01 03:56:40,288 - INFO - MOVED: ChatGPT Image Apr 27, 2025, 09_12_50 AM.png -> Images/ChatGPT Image Apr 27, 2025, 09_12_50 AM.png
+2025-08-01 03:56:40,288 - INFO - MOVED: Lavanda-Sea-Dark.tar.xz -> Applications/Lavanda-Sea-Dark.tar.xz
+2025-08-01 03:56:40,289 - INFO - MOVED: extracted_profile.icc -> Applications/extracted_profile.icc
+2025-08-01 03:56:40,289 - INFO - MOVED: 9685.gif -> Images/9685.gif
+2025-08-01 03:56:40,289 - INFO - MOVED: app.zen_browser.zen.flatpakref -> Others/app.zen_browser.zen.flatpakref
+2025-08-01 03:56:40,289 - INFO - MOVED: rage-david-martinez.gif -> Images/rage-david-martinez.gif
+2025-08-01 03:56:40,289 - INFO - MOVED: ChatGPT Image Apr 22, 2025, 12_57_33 PM.png -> Images/ChatGPT Image Apr 22, 2025, 12_57_33 PM.png
+2025-08-01 03:56:40,289 - INFO - MOVED: Image-ExifTool-13.30.tar.gz -> Archives/Image-ExifTool-13.30.tar.gz
+2025-08-01 03:56:40,289 - INFO - MOVED: ChatGPT Image Jun 4, 2025, 11_49_06 AM.png -> Images/ChatGPT Image Jun 4, 2025, 11_49_06 AM.png
+2025-08-01 03:56:40,289 - INFO - MOVED: mongodb-compass_1.46.0_amd64.deb -> Applications/mongodb-compass_1.46.0_amd64.deb
+2025-08-01 03:56:40,290 - INFO - MOVED: Screenshot 2025-06-12 at 19-29-11 0Kareem0_Learning-React.png -> Images/Screenshot 2025-06-12 at 19-29-11 0Kareem0_Learning-React.png
+2025-08-01 03:56:40,290 - INFO - MOVED: WhatsApp Image 2025-05-13 at 12.14.52 AM (1).jpeg -> Images/WhatsApp Image 2025-05-13 at 12.14.52 AM (1).jpeg
+2025-08-01 03:56:40,290 - INFO - MOVED: _WeCima.Show__Dark_S02_720p.rar -> Archives/_WeCima.Show__Dark_S02_720p.rar
+2025-08-01 03:56:40,290 - INFO - MOVED: 503023123_18065539610510743_1051036098358379209_n.jpg -> Images/503023123_18065539610510743_1051036098358379209_n.jpg
+2025-08-01 03:56:40,290 - INFO - MOVED: cyberpunk-2077-v.gif -> Images/cyberpunk-2077-v.gif
+2025-08-01 03:56:40,290 - INFO - MOVED: ChatGPT Image Apr 21, 2025, 01_56_17 AM.png -> Images/ChatGPT Image Apr 21, 2025, 01_56_17 AM.png
+2025-08-01 03:56:40,290 - INFO - MOVED: 162558.gif -> Images/162558.gif
+2025-08-01 03:56:40,290 - INFO - MOVED: Teddybear @ PixelJoint_com.gif -> Images/Teddybear @ PixelJoint_com.gif
+2025-08-01 03:56:40,290 - INFO - MOVED: planet-svgrepo-com.svg -> Images/planet-svgrepo-com.svg
+2025-08-01 03:56:40,290 - INFO - MOVED: Fight_Club.mp4.crdownload -> Others/Fight_Club.mp4.crdownload
+2025-08-01 03:56:40,290 - INFO - MOVED: dr.stone.s01.e01.stone.world.(2019).ara.1cd.(12250013).zip -> Archives/dr.stone.s01.e01.stone.world.(2019).ara.1cd.(12250013).zip
+2025-08-01 03:56:40,291 - INFO - MOVED: webcam-toy-photo1.jpg -> Images/webcam-toy-photo1.jpg
+2025-08-01 03:56:40,291 - INFO - MOVED: ChatGPT Image Apr 22, 2025, 04_39_57 PM.png -> Images/ChatGPT Image Apr 22, 2025, 04_39_57 PM.png
+2025-08-01 03:56:40,291 - INFO - MOVED: app.zen_browser.zen (1).flatpakref -> Others/app.zen_browser.zen (1).flatpakref
+2025-08-01 03:56:40,291 - INFO - MOVED: WhatsApp Image 2025-07-19 at 2.10.04 PM.jpeg -> Images/WhatsApp Image 2025-07-19 at 2.10.04 PM.jpeg
+2025-08-01 03:56:40,291 - INFO - MOVED: Lavanda-Dark.tar.xz -> Applications/Lavanda-Dark.tar.xz
+2025-08-01 03:56:40,291 - INFO - MOVED: warp-terminal_0.2025.05.21.08.11.stable.01_amd64.deb -> Applications/warp-terminal_0.2025.05.21.08.11.stable.01_amd64.deb
+2025-08-01 03:56:40,291 - INFO - MOVED: mongodb-mongosh_2.5.0_amd64.deb -> Applications/mongodb-mongosh_2.5.0_amd64.deb
+2025-08-01 03:56:40,291 - INFO - MOVED: WhatsApp Image 2025-05-13 at 12.14.52 AM (2).jpeg -> Images/WhatsApp Image 2025-05-13 at 12.14.52 AM (2).jpeg
+2025-08-01 03:56:40,291 - INFO - MOVED: background-realistic-abstract-technology-particle.zip -> Archives/background-realistic-abstract-technology-particle.zip
+2025-08-01 03:56:40,291 - INFO - MOVED: GpmKOQGXUAEUgti.jpeg -> Images/GpmKOQGXUAEUgti.jpeg
+2025-08-01 03:56:40,291 - INFO - MOVED: chrome.zip -> Archives/chrome.zip
+2025-08-01 03:56:40,292 - INFO - MOVED: ChatGPT Image Jun 4, 2025, 11_59_36 AM.png -> Images/ChatGPT Image Jun 4, 2025, 11_59_36 AM.png
+2025-08-01 03:56:40,292 - INFO - MOVED: _WeCima.Show__Dark_S03_720p.rar -> Archives/_WeCima.Show__Dark_S03_720p.rar
+2025-08-01 03:56:40,292 - INFO - MOVED: laughing-david-martinez.gif -> Images/laughing-david-martinez.gif
+2025-08-01 03:56:40,292 - INFO - MOVED: WIN_20250521_03_31_24_Pro.mp4 -> Videos/WIN_20250521_03_31_24_Pro.mp4
+2025-08-01 03:56:40,292 - INFO - MOVED: message.txt -> Documents/message.txt
+2025-08-01 03:56:40,292 - INFO - MOVED: ChatGPT Image Apr 28, 2025, 05_57_39 PM.png -> Images/ChatGPT Image Apr 28, 2025, 05_57_39 PM.png
+2025-08-01 03:56:40,292 - INFO - MOVED: Orchis.tar.xz -> Applications/Orchis.tar.xz
+2025-08-01 03:56:40,292 - INFO - MOVED: warp-terminal_0.2025.05.21.08.11.stable.01_amd64(1).deb -> Applications/warp-terminal_0.2025.05.21.08.11.stable.01_amd64(1).deb
+2025-08-01 03:56:40,292 - INFO - MOVED: webcam-toy-photo2.jpg -> Images/webcam-toy-photo2.jpg
+2025-08-01 03:56:40,292 - INFO - MOVED: _WeCima.Show__Dark_S01_720p.rar -> Archives/_WeCima.Show__Dark_S01_720p.rar
+2025-08-01 03:56:40,293 - INFO - MOVED: anime.gif -> Images/anime.gif
+2025-08-01 03:56:40,293 - INFO - MOVED: extracted_icc_profile.icc -> Applications/extracted_icc_profile.icc
+2025-08-01 03:56:40,293 - INFO - MOVED: image.jpg -> Images/image.jpg
+2025-08-01 03:56:40,293 - INFO - MOVED: _.jpeg -> Images/_.jpeg
+2025-08-01 03:56:40,293 - INFO - MOVED: kali-linux-2025.1c-virtualbox-amd64.7z -> Archives/kali-linux-2025.1c-virtualbox-amd64.7z
+2025-08-01 03:56:40,293 - INFO - MOVED: runjs_3.1.2_amd64.deb -> Applications/runjs_3.1.2_amd64.deb
+2025-08-01 03:56:40,293 - INFO - MOVED: vecteezy_planet-logo-icon-design-template-vector_7635631_410.zip -> Archives/vecteezy_planet-logo-icon-design-template-vector_7635631_410.zip
+2025-08-01 03:56:40,293 - INFO - MOVED: steins-gate-okabe-rintaro.gif -> Images/steins-gate-okabe-rintaro.gif
+2025-08-01 03:56:40,293 - INFO - MOVED: kali-linux-2025.1c-installer-amd64.iso -> Applications/kali-linux-2025.1c-installer-amd64.iso
+2025-08-01 03:56:40,293 - INFO - MOVED: ChatGPT Image Jun 4, 2025, 11_58_49 AM.png -> Images/ChatGPT Image Jun 4, 2025, 11_58_49 AM.png
+2025-08-01 03:56:40,293 - INFO - MOVED: gojo-satoru-gojo.gif -> Images/gojo-satoru-gojo.gif
+2025-08-01 03:56:40,294 - INFO - MOVED: map-marker-svgrepo-com.svg -> Images/map-marker-svgrepo-com.svg
+2025-08-01 03:56:40,294 - INFO - MOVED: ChatGPT Image Apr 21, 2025, 01_50_31 AM.png -> Images/ChatGPT Image Apr 21, 2025, 01_50_31 AM.png
+2025-08-01 03:56:40,294 - INFO - MOVED: Screencast from 2025-05-06 18-49-55 (online-video-cutter.com).mp4 -> Videos/Screencast from 2025-05-06 18-49-55 (online-video-cutter.com).mp4
+2025-08-01 03:56:40,294 - INFO - MOVED: dr.stone.s01.e01.stone.world.(2019).ara.1cd.(12098619).zip -> Archives/dr.stone.s01.e01.stone.world.(2019).ara.1cd.(12098619).zip
+2025-08-01 03:56:40,294 - INFO - MOVED: code.png -> Images/code.png
+2025-08-01 03:56:40,294 - INFO - MOVED: WhatsApp Image 2025-05-13 at 12.14.52 AM.jpeg -> Images/WhatsApp Image 2025-05-13 at 12.14.52 AM.jpeg
+2025-08-01 03:56:40,294 - INFO - MOVED: Screenshot from 2025-06-14 23-35-01.png -> Images/Screenshot from 2025-06-14 23-35-01.png
+2025-08-01 03:56:40,294 - INFO - MOVED: ChatGPT Image Apr 22, 2025, 12_57_18 PM.png -> Images/ChatGPT Image Apr 22, 2025, 12_57_18 PM.png
+2025-08-01 03:56:40,294 - INFO - Move log saved to /home/elite/Downloads/move_log_20250801_035640.txt
+2025-08-01 03:56:40,294 - INFO - Organization complete!
